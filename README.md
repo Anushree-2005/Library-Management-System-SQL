@@ -20,6 +20,21 @@ This project is ideal for learning **Database Management Systems (DBMS)** and sh
 
 ---
 
+## 🗂 File Structure
+
+| File | Description |
+|------|-------------|
+| `schema.sql`     | DDL statements to create tables & constraints |
+| `data.sql`       | Sample data inserts |
+| `procedure.sql`  | Stored procedure definitions |
+| `triggers.sql`   | Triggers for automation |
+| `views.sql`      | Views for reporting and simplifying queries |
+| `queries.sql`    | Example queries / use case scenarios |
+| `ERD.png`         | Entity-Relationship Diagram |
+| `README.md`       | Documentation and instructions |
+
+---
+
 ## 🛠 Setup Instructions
 
 1. Clone this repository:
